@@ -1,0 +1,4 @@
+окт. 08, 2023 4:50:19 AM lesson_2.lecture.Ex005_Logger main
+WARNING: Тестовое логирование (=1)
+окт. 08, 2023 4:50:19 AM lesson_2.lecture.Ex005_Logger main
+INFO: Тестовое логирование (=2)

@@ -1,0 +1,6 @@
+addPhoneNumber(phonebook, "John", "123-456-7890");
+addPhoneNumber(phonebook, "Alice", "987-654-3210");
+addPhoneNumber(phonebook, "John", "555-123-4567");
+addPhoneNumber(phonebook, "Bob", "555-987-6543");
+addPhoneNumber(phonebook, "Alice", "111-222-3333")
+addPhoneNumber(phonebook, "Alice", "111-222-3773");
