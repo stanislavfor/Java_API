@@ -3,7 +3,7 @@
 
 ## Ссылки на Семинары (папки для работы):
 
-- [Уроки ]https://github.com/stanislavfor/Java_API/tree/main/src/main/java)
+- [ Уроки ](https://github.com/stanislavfor/Java_API/tree/main/src/main/java)
 
 
 ### Ссылки на Среду разработки (IDE):
