@@ -31,5 +31,6 @@
 - [Задача 1.](https://github.com/stanislavfor/Java_API/blob/main/src/main/java/lesson_6/homework/Hw_1.java)
 - [Задача 2.](https://github.com/stanislavfor/Java_API/blob/main/src/main/java/lesson_6/homework/Hw_2.java)
 - [Задача 3.](https://github.com/stanislavfor/Java_API/blob/main/src/main/java/lesson_6/homework/Hw_3.java)
+- [Задача 3.](https://github.com/stanislavfor/Java_API/blob/main/src/main/java/lesson_6/homework/Hw_4.java)
 
 
