@@ -2,7 +2,7 @@ package lesson_5.seminar;
 
 import java.util.ArrayList;
 
-public class Lesson_5 {
+public class L_5x004 {
 
     public static void main(String[] args) {
 

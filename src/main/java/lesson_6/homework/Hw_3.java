@@ -25,21 +25,20 @@ public class Hw_3 {
                 list.add(entry.getValue());
             }
             Collections.sort(list);
+            System.out.print("Вывод: ");
             for (int num : list) {
                 for (Entry<String, Integer> entry : map.entrySet()) {
                     if (entry.getValue().equals(num)) {
-                        sortedMap.put(entry.getKey(), num);
+                        sortedMap.put(entry.getKey() + " " , + num);
                         // System.out.println(sortedMap.put(entry.getKey(), num));
-                        System.out.println(entry.getKey() + " " + entry.getValue());
-
+                        // System.out.println(entry.getKey() + " " + entry.getValue());
                     }
                 }
 
             }
-
-            System.out.println("Вывод: " + sortedMap);
-            System.out.println("Вывод: ");
             sortedMap.entrySet().forEach(System.out::println);
+            System.out.print("Вывод: ");
+            System.out.println(sortedMap);
 
         }
     }
